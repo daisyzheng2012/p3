@@ -13,8 +13,15 @@
 
 Route::group(['middleware' => ['web']], function () {
 
-    Route::get('/', function () {
-        return view('welcome');
-    });
+    // Route::get('/', function () {
+    //     // return view('welcome');
+    //     return "firt try";
+    // });
+
+    Route::get('/', 'MController@index');
+    Route::get('/lorem', 'LoremController@getLorem');
+    Route::post('/lorem','LoremController@postLorem');
+    Route::get('/randomuser', 'RandomController@getRandomUser');
+    Route::post('/randomuser','RandomController@postRandomUser');
 
 });
