@@ -5,7 +5,7 @@
 @stop
 
 @section('header')
-    <h1 class="text-center">P3</h1>
+    <h1 class="text-center">Developer's Best Friend</h1>
 @stop
 
 @section('content')
