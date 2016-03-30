@@ -76,11 +76,11 @@
                     <h4>Example:</h4>
                     <p>
                         Name: Lambert Reilly DDS
-
+                        <br />
                         Address: 523 Araceli Mountain Rhiannonton, IA 86329
-
+                        <br />
                         Birth Date: 17 August 1970
-
+                        <br />
                         Email: klocko.naomie@cartwright.com Phone: 118-939-3601x2339 Company: Renner-Gerlach
                     </p>
                 </div>
