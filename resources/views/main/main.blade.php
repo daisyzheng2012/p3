@@ -15,7 +15,7 @@
       <div class="caption">
         <img src="images/random_user_icon.png" alt="random_user_icon" height="256" width="256" align="middle">
         <h3>Random User Generator</h3>
-        <p>The Random User Generator creates up to 50 random personas, complete with first and last name, full mailing address, phone number, email address, place of employment and profile image. </p>
+        <p>The Random User Generator create up to 100 random user information, user can have option include birth date, location, and profile, which profile I set here is user email address, phone number and employment company. </p>
         <p><a href="/randomuser" class="btn btn-primary btn-block" role="button">GO</a></p>
       </div>
     </div>
