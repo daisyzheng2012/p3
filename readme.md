@@ -15,9 +15,8 @@ Create a web application called Developer's Best Friend which includes a Lorem I
 ## Details for teaching team
     no
 
-The file `word-scrape.php` was used to generate the word list.
-
 ## Outside code
 * Laravel validation: https://scotch.io/tutorials/laravel-form-validation
 * Bootstrap: http://getbootstrap.com/
 * Bootstrap Theme: http://bootswatch.com/flatly/
+* Laravel documentation: https://laravel.com/docs/5.2
