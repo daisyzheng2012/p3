@@ -24,10 +24,6 @@
             <div class="navbar-header">
                 <a class="navbar-brand" href="http://p1.jingjingzheng.me">Home</a>
             </div>
-                <!-- <ul class="nav navbar-nav">
-                <li class="active"><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul> -->
         </div>
     </nav>
 

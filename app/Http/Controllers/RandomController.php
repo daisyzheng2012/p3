@@ -33,16 +33,10 @@ class RandomController extends Controller {
                 ->withInput()
                 ->withErrors($validator);
         }
-
-        //validation
-        // $this->validate($request, [
-        //     'number_of_rusers' => 'required|digits_between:1,50|min:1',
-        //     'para_length'    => 'required|in:short,medium,long'
-        // ]);
         // grab the $request object which contains all the form data
         $data = $request->all();
         // dd($request->all());
-        // return "haha";
+        
         $number_of_rusers = $data['number_of_rusers'];
         if (isset($data['add_birthdate'])) {
             $add_birthdate    = $data['add_birthdate'];

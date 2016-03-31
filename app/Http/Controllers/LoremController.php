@@ -13,9 +13,6 @@ use \LoremGenerator;
 
 class LoremController extends Controller {
 
-    /**
-    * main page of p3
-    */
     public function getLorem() {
         return view('lorem.index');
     }
