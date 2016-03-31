@@ -1,7 +1,7 @@
 # Developer's Best Friend
 
 ## Live URL
-    http://p2.jingjingzheng.me
+    http://p3.jingjingzheng.me
 
 ## Description
 Create a web application called Developer's Best Friend which includes a Lorem Ipsum Generator and a Random User Generator.
