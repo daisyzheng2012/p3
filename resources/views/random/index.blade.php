@@ -21,7 +21,7 @@
             <div class="form-group">
                 <label for='number_of_words'>Number of Random Users</label>
                 <input type='hidden' name='_token' value='{{ csrf_token() }}'>
-                <input type='text' class="form-control" name='number_of_rusers' id='number_of_rusers' value='{{ old('number_of_rusers') }}'>
+                <input type='text' class="form-control" name='number_of_rusers' id='number_of_rusers' value='{{ old('number_of_rusers') }}' placeholder="1~100.">
             </div>
             <p>Include...</p>
             <div class="checkbox">
