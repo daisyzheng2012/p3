@@ -10,7 +10,7 @@ Create a web application called Developer's Best Friend which includes a Lorem I
 * Random User tool is using helper package called fzaninotto/faker to generate up to 100 random users information, also with options including Birth date, location, profile.
 
 ## Demo
-<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
+<https://www.youtube.com/watch?v=BVZe_xiwd1w>
 
 ## Details for teaching team
     no
